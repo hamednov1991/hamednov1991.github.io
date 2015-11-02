@@ -2,12 +2,18 @@
 layout: blog
 ---
 <article>
+    
+
     <a href="{{ site.url }}/blog" class="link">
         <div class="button waves-effect waves-side">
             <i class="mdi-action-exit-to-app"></i>
             <span>بازگشت</span>
         </div>
     </a>
+
+    <p id="post-meta">{{ tags_content }}</p>
+
+
     <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
     <h4>{{ page.parsidate }}</h4>
     <section class="content">
