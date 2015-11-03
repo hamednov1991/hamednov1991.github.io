@@ -1,1 +1,8 @@
--slug:start name:Start
+- slug: django
+  name: Django
+
+- slug: django-template-tags
+  name: Django Template Tags
+
+- slug: python
+  name: Python
