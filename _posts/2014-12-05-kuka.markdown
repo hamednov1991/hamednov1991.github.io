@@ -9,7 +9,7 @@ imgauthor: http://florianklauer.de/
 imgauthorname: Florian Klauer
 ---
 
-![alt text](../assets/img/1.jpg)  
+![alt text]({{site.url}}/assets/img/1.jpg)  
   
   آیا تا به حال فکر کرده اید که پس ازخوردن نوشابه بدن شما چه واکنشی نشان میدهد؟  
   در این اینفوگرافی به بررسی وضعیت بدن یک ساعت پس از خوردن یک قوطی کوکا می پردازیم.  
