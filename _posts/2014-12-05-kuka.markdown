@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "واکنش بدن یک ساعت پس از نوشیدن نوشابه "
-permalink: blog/start
+permalink: 
 parsidate: جمعه 15 آبان 1394
 comments: true
 imglink: http://hosseinkarami.com/assets/img/post/typewriter.jpg
