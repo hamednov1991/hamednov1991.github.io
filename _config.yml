@@ -1,16 +1,16 @@
 ﻿# Site settings
-title: Hossein Karami | حسین کرمی
-email: hi@hosseinkarami.com
+title: Hamed ghoorchiani
+email: hamedghnov91@gmail.com
 description: توسعه‌دهنده رابط کاربری
-baseurl: "http://hosseinkarami.com/"
-url: "http://hosseinkarami.com"
-twitter: _Karamii
-github:  HosseinKarami
-behance: HosseinKarami
+baseurl: "http://hamedgh.ir/"
+url: "http://hamedgh.ir"
+twitter: _ghoorchiani
+github:  hamednov1991
+behance: hamednov1991
 # Build settings
 markdown: kramdown
 permalink: pretty
 paginate: 5
 paginate_path: "blog/page:num/"
 exclude: ["node_modules", "gulpfile.js", "package.json"]
-encoding: utf-8
+
