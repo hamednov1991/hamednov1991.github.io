@@ -1,8 +1,11 @@
-- slug: django
-  name: Django
+- slug: Phone
+  name: اندروید و ios
+  
+- slug: Car
+  name: ماشین پرنده
 
-- slug: django-template-tags
-  name: Django Template Tags
+    
+- slug: Drink
+  name: نوشیدنی 
 
-- slug: python
-  name: Python
+
